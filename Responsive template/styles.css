@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+.bodygrid{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 1rem;
+}
+
